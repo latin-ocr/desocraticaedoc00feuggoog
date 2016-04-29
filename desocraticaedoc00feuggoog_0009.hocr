@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desocraticaedoc00feuggoog_0009.png"; bbox 0 0 2706 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 2098 1023 2142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 2098 1023 2142">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 2098 1023 2142; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 443 2098 562 2140; x_wconf 80' lang='lat' dir='ltr'>SCEAUX.</span> <span class='ocrx_word' id='word_1_2' title='bbox 574 2119 601 2128; x_wconf 94' lang='lat'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 614 2098 675 2138; x_wconf 83' lang='lat' dir='ltr'>lMP.</span> <span class='ocrx_word' id='word_1_4' title='bbox 691 2099 722 2138; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_5' title='bbox 737 2099 774 2138; x_wconf 87' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 787 2099 851 2141; x_wconf 50' lang='lat'><em>1413.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 866 2098 1023 2142; x_wconf 79' lang='lat' dir='ltr'>CHARAIRE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1358 4718">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1358 4718">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1358 4718; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1358 4718; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
